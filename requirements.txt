@@ -1,0 +1,8 @@
+mecab-python3
+python-dateutil
+BeautifulSoup4
+lxml
+playwright
+pytest-playwright
+numpy<2.0
+wordcloud
